@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KAGrubbs, a third-year university student.
 - 👀 I’m interested in web development and becoming a more well-rounded software engineer!
-- 🌱 I’m currently learning SQL as well as JavaScript, and I am in Software Engineering and Automata classes.
+- 🌱 I’m currently learning to apply my knowledge to create an awesome farming web app in Software Engineering II. I'm also in Computer Networks.
 - 🎵 My other interests include books, art, and theater.
 - ⚡ Fun fact: I love math! I am double majoring in Mathematics and Computer Science.
 
